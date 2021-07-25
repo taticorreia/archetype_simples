@@ -1,3 +1,4 @@
+import pandas as pd
 from func_abstrata import Abstrata
 import sys
 import  os
